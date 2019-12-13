@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import os
 
-DATA_PATH = r'/Users/Peter/PycharmProjects/Python for Finance/MeteorShower/'
+DATA_PATH = r'YOUR FILE PATH'
 name_of_shower = 'per'
 month_of_observation = '08'
 showername = name_of_shower.upper()
