@@ -10,8 +10,9 @@ The link: https://www.imo.net/members/imo_vmdb/download
 I put the data files in one directory named MeteorShower and the program will read through the directory. I am using the data of Perseids from last 30 years. You can try to download other meteor shower databases such as the Perseids.
 
 At the beginning of the program, you should choose the meteorshower name and the month you want to observe.
-For example: name_of_shower = 'PER'  (PER for Perseids, names are shown on the file name)
-             month_of_observation = '08' (Please fill in two digits)
-             DATA_PATH = r'YOUR FILE DIRECTORY'
+For example: 
+name_of_shower = 'PER'  (PER for Perseids, names are shown on the file name)
+month_of_observation = '08' (Please fill in two digits)
+DATA_PATH = r'YOUR FILE DIRECTORY'
 
 Let's enjoy the meteorshowers!
